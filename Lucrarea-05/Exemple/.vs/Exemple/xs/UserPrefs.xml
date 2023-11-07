@@ -1,0 +1,52 @@
+﻿<Properties StartupConfiguration="{EB4889AD-8910-432F-9AA3-5817AE8422AC}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Exemple/Program.cs">
+    <Files>
+      <File FileName="Exemple.Domain/Workflows/ExamGradesOperation.cs" Line="16" Column="57" />
+      <File FileName="Exemple.Domain/Workflows/PublishGradeWorkflow.cs" Line="17" Column="18" />
+      <File FileName="Exemple.Domain/WorkflowEvents/ExamGradesPublishedEvent.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Repositories/IOrderHeaderRepository.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Repositories/IProductsRepository.cs" Line="8" Column="31" />
+      <File FileName="Exemple.Domain/Models/ValidatedOrderLine.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/UnvalidatedOrderLine.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/ShoppingCartChoice.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/ShoppingCart.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/ProductQuantityValidation.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/ProductCodeValidation.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/PayShoppingCartCommand.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/OrderHeaderId.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Models/CalculatedPrice.cs" Line="1" Column="1" />
+      <File FileName="Exemple.Domain/Exceptions/InvalidProductCodeException.cs" Line="1" Column="1" />
+      <File FileName="Exemple/Program.cs" Line="21" Column="75" />
+      <File FileName="Example.Data/Repositories/ProductsRepository.cs" Line="11" Column="36" />
+      <File FileName="Example.Data/ProductsContext.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Exemple" expanded="True">
+            <Node name="Example.Data" expanded="True">
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="Exemple" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="Exemple.Domain" expanded="True">
+              <Node name="Exceptions" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+              <Node name="WorkflowEvents" expanded="True" />
+              <Node name="Workflows" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Exemple PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

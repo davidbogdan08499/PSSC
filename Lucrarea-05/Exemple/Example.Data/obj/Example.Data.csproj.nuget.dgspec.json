@@ -1,0 +1,142 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Example.Data/Example.Data.csproj": {}
+  },
+  "projects": {
+    "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Example.Data/Example.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Example.Data/Example.Data.csproj",
+        "projectName": "Example.Data",
+        "projectPath": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Example.Data/Example.Data.csproj",
+        "packagesPath": "/Users/alexandracuzea/.nuget/packages/",
+        "outputPath": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Example.Data/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandracuzea/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/Exemple.Domain.csproj": {
+                "projectPath": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/Exemple.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[5.0.12, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/Exemple.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/Exemple.Domain.csproj",
+        "projectName": "Exemple.Domain",
+        "projectPath": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/Exemple.Domain.csproj",
+        "packagesPath": "/Users/alexandracuzea/.nuget/packages/",
+        "outputPath": "/Users/alexandracuzea/Library/Mobile Documents/com~apple~CloudDocs/Anul 4/Sem 1/PSSC/verificare_sapt7/Lucrarea-05/Exemple/Exemple.Domain/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alexandracuzea/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "CSharp.Choices": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "LanguageExt.Core": {
+              "target": "Package",
+              "version": "[3.4.15, )"
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
